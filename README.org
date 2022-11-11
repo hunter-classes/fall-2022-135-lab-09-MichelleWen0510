@@ -1,12 +1,12 @@
 * Fall 2022 - Lab 09
 
-* Last name:
+* Last name: Wen
 
-* First name:
+* First name: Michelle
 
-* GitHub username:
+* GitHub username: MichelleWen0510
 
-* Notes:
+* Notes: poem.cpp is Task D. Did not know how to test for delete coord.
 
 
 
